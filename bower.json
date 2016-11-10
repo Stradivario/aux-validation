@@ -1,0 +1,17 @@
+{
+  "name": "aux-validation",
+  "description": "",
+  "main": "aux-validation.js",
+  "authors": [
+    "Kristian Tachev"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
